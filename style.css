@@ -1,0 +1,119 @@
+.body {
+  margin: 0px;
+}
+
+.d1 {
+  width: 100vw;
+  height: 52px;
+
+  font-size: 14px;
+  color: black;
+  font-family: Gotham SSm;
+  font-weight: 300;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.a1 {
+  color: black;
+  text-underline-offset: 3px;
+}
+
+.d2 {
+  width: 100vw;
+  height: 92vh;
+  background-image: url(background.jpeg);
+  background-size: cover;
+  background-position-y: -165px;
+}
+
+.logo {
+  width: 120px;
+  margin-left: 48px;
+  margin-top: 22px;
+}
+
+.list1 {
+    list-style: none;
+    margin-left: 360px;
+    margin-top: -18px;
+}
+
+.li1 {
+    display: inline;
+    font-size: 14px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+    margin-left: 28px;
+}
+
+.list2 {
+    list-style: none;
+    margin-top: -32px;
+    margin-left: 1200px;
+}
+
+.d3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 40px;
+    margin-left: -15px;
+
+    font-size: 40px;
+    font-family: Gotham SSm;
+    font-weight: 500;
+}
+
+.d4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 6px;
+    margin-left: -15px;
+
+    font-size: 17px;
+    font-family: Gotham SSm;
+    font-weight: 400;
+}
+
+.d5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 400px;
+}
+
+.b1 {
+    width: 250px;
+    height: 38px;
+    background-color: rgb(58,61,65);
+
+    font-size: 14px;
+    color: white;
+    font-family: Gotham SSm;
+    font-weight: 600;
+
+    border-style: none;
+    border-radius: 6px;
+}
+
+.b2 {
+    width: 250px;
+    height: 38px;
+    background-color: rgb(232,232,231);
+
+    font-size: 14px;
+    color: rgb(75,77,82);
+    font-family: Gotham SSm;
+    font-weight: 500;
+
+    border-style: none;
+    border-radius: 6px;
+    margin-left: 25px;
+}
